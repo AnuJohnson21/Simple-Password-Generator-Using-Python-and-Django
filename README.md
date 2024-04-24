@@ -1,1 +1,1 @@
-# Simple-Password-Generator-code-in-Python
+# Simple-Password-Generator Using Python and Django
